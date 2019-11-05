@@ -8,10 +8,10 @@ end
   end
 
   def job= (person_job)
-    @person_job = person_job
+    @job = person_job
   end
 
   def job
-    @person_job
+    @job
   end
 end
